@@ -4,7 +4,7 @@ import Card from '../components/Card';
 
 import bd from '../assets/images/Bangladesh.jpg';
 import me from '../assets/images/Me.jpg';
-import res from '../assets/images/taswerResume.png';
+import res from '../assets/images/res.JPG';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 
@@ -35,7 +35,7 @@ class Carousel extends React.Component {
                     title: 'Resume',
                     subTitle: 'Click to download my resume.',
                     imgSrc: res,
-                    link: '/taswerResume.docx',
+                    link: '../assets/images/taswerResume.png',
                     selected: false
                 },
             ]
