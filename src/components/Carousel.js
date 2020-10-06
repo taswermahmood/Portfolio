@@ -4,7 +4,7 @@ import Card from '../components/Card';
 
 import bd from '../assets/images/Bangladesh.jpg';
 import me from '../assets/images/Me.jpg';
-import res from '../assets/images/res.JPG';
+import res from '../assets/images/taswerResume.png';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 
