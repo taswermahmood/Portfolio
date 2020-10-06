@@ -35,7 +35,7 @@ class Carousel extends React.Component {
                     title: 'Resume',
                     subTitle: 'Click to download my resume.',
                     imgSrc: res,
-                    link: '../assets/images/taswerResume.png',
+                    link: './taswerResume.jpg',
                     selected: false
                 },
             ]
