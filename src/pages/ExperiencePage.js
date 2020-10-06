@@ -13,9 +13,13 @@ function ExperiencePage(props) {
             <p> 	• Helps students with any problems in the lab regarding hardware and software.</p>
             <p>     • Update all the lab computers and applications and make sure they run adequately.</p>
             <br></br>
-            <h4>McDonalds | Crew Trainers | October 2017 – March 2020</h4>
-            <p> 	• Train new employees hired by McDonalds so that the crew depend on them as soon as possible.</p>
-            <p>     • Provided precise customer service which led to an increase in sales by 9% this fiscal year.</p>
+            <h4>Front-end Developer | Garnet LLC | September - Present</h4>
+            <p> 	• Developing the frontend for a web-based magazine company.</p>
+            <p>     • JavaScript’s React library to design the frontend.</p>
+        <p>     • Made custom hooks to fetch data from the backend services. Implemented React Router Dom to switch between content.
+Used validation library, Formik to validate the credentials of the subscribers and giving access to magazine for download purposes.</p>
+        <p>     • Implemented filtering of articles fetched from the database by installing a search engine.</p>
+        <p>     • Involved in using Material UI for a responsive frontend experience.</p>
 
            
             </Content>
